@@ -1,0 +1,15 @@
+
+
+mkdir "name of directory"
+
+cd "name of directory"
+
+change it resipotory with 'git init'
+
+git commit
+
+git status
+
+git config user.name="Khophy"
+
+git config user.email="bnkyei@gmail.com"
