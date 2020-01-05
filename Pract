@@ -6,10 +6,14 @@ cd "name of directory"
 
 change it resipotory with 'git init'
 
-git commit
+git add "resipotory'
+
+git commit "resipotory'
 
 git status
 
-git config user.name="Khophy"
+git config user.name "Khophy"
 
-git config user.email="bnkyei@gmail.com"
+git config user.email "bnkyei@gmail.com"
+
+Done
